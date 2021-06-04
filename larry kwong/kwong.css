@@ -1,0 +1,133 @@
+
+
+
+div {
+
+    width: 800px;
+	padding: 20px;
+	border: 10px #24a1ff solid;
+	background-image: url("ice.jpg");
+	border-radius: 50px;
+	box-shadow: 20px 20px 50px #023047;
+	margin-bottom: 60px;
+    margin-left: auto;
+	margin-right: auto;
+background-position: center;
+background-size: 2000px;
+height: auto;
+}
+
+li {
+	font-family: 'Squada One', cursive;
+	font-size: 27;
+color: black;
+}
+
+
+
+
+h1 {
+	
+	text-align: center;
+	color: red;
+font-size: 35;
+
+}
+
+
+
+p {
+	
+	font-family: 'Squada One', cursive;
+	font-size: 27;
+color: black;
+text-shadow: 2px 2px 3px white;
+}
+
+body {
+	 background-image: url("da.jpg");
+	
+	
+}
+
+
+p.nav{
+	text-align: center;
+	
+	
+	
+}
+
+
+
+h2 {
+	
+	color:#0e22a0;
+	text-align: center;
+	font-size: 30;
+}
+
+
+
+table {
+	
+	background: white;
+	width: 100%;
+	
+	
+}
+
+tr {
+  background: white;	
+border-radius: 50px;
+	border: 10px #24a1ff solid;
+box-shadow: 20px 20px 50px #023047;
+	margin-bottom: 60px;
+    margin-left: auto;
+	margin-right: auto;
+background-position: center;
+background-size: 2000px;
+
+}
+
+
+
+
+
+
+img{
+	
+float: right;
+	border: 2px red solid;
+	border-radius: 30px;
+    margin-top: 20px;
+	
+	
+
+
+
+}
+
+
+
+h3 {
+	
+font-family: fantasy;	
+font-size: 29;
+
+
+}
+
+
+a {
+	color: red;
+	
+}
+
+
+
+
+
+
+
+
